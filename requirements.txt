@@ -1,0 +1,9 @@
+requests
+python-dotenv
+dataclasses
+typing
+datetime
+snowflake
+pandas
+snowflake-snowpark-python
+openai
